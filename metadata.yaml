@@ -1,0 +1,27 @@
+_repo: Some-Observations-on-the-Ethnography-and-Archaeology-of-the-American-Aborigines_29215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morton, Samuel George
+    alias: Morton, S. Georgius (Samuel Georgius)
+    birthdate: 1799
+    deathdate: 1851
+    gutenberg_agent_id: '33769'
+    url: http://www.gutenberg.org/2009/agents/33769
+description: ''
+gutenberg_issued: '2009-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Indians'
+title: Some Observations on the Ethnography and Archaeology of the American Aborigines
+url: http://www.gutenberg.org/ebooks/29215
